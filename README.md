@@ -15,7 +15,7 @@ git clone the repository
 git clone git@github.com:snippet-labs/SNIPPETLABS.git
 ```
 
-Install all the pre-set dependencies
+Install all the pre-set dependencies using
 
 ```bash
 bun install
@@ -27,7 +27,7 @@ or
 npm install
 ```
 
-Navigate to the local repository
+Navigate to the local repository using
 
 ```bash
 cd ./ < your cloned local-repository >
@@ -37,7 +37,7 @@ cd ./ < your cloned local-repository >
 cd client/
 ```
 
-Run the frontend server for development
+Run the frontend server for development using
 
 ```bash
 bun run dev
