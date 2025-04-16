@@ -8,4 +8,46 @@
 </div>
   <p> Application is under-development, stay tuned ! </p>
 
+##### FRONTEND FOLDER DIRECTION
+
+git clone the repository
+
+```bash
+git clone git@github.com:snippet-labs/SNIPPETLABS.git
+```
+
+Install all the pre-set dependencies
+
+```bash
+bun install
+```
+
+or
+
+```bash
+npm install
+```
+
+Navigate to the local repository
+
+```bash
+cd ./local-repository
+```
+
+```bash
+cd client/
+```
+
+Run the frontend server for development
+
+```bash
+bun run dev
+```
+
+or
+
+```bash
+npm run dev
+```
+<hr>
 ##### TEAM SNIPPETS
