@@ -30,7 +30,7 @@ npm install
 Navigate to the local repository
 
 ```bash
-cd ./local-repository
+cd ./ < your cloned local-repository >
 ```
 
 ```bash
