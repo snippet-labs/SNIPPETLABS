@@ -4,7 +4,7 @@
     alt="sippetlabs-logo" 
     style="width: 60px; height: 60px; border-radius: 50%;"
   >
-  <h1 style="margin: 0; font-family: Arial, sans-serif; font-size: 24px;d"> SnippetLabs | Our landing page </h1>
+  <h1 style="margin: 0; font-family: Arial, sans-serif; font-size: 24px;d"> SnippetLabs | Landing Page </h1>
 </div>
 
 ##### FRONTEND FOLDER DIRECTION
