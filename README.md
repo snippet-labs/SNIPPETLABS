@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <img 
-    src="./public/__underdevelopment-logo.png" 
+    src="./public/icons/__underdevelopment-logo.png" 
     alt="scriptLabLogo" 
     style="width: 50px; height: 50px; border-radius: 50%;"
   >
