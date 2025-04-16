@@ -6,7 +6,6 @@
   >
   <h1 style="margin: 0; font-family: Arial, sans-serif; font-size: 24px;d"> SnippetLabs | Our landing page </h1>
 </div>
-  <p> Application is under-development, stay tuned ! </p>
 
 ##### FRONTEND FOLDER DIRECTION
 
@@ -49,5 +48,7 @@ or
 ```bash
 npm run dev
 ```
+
 <hr>
+
 ##### TEAM SNIPPETS
